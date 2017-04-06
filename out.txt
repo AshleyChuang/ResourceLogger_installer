@@ -1,0 +1,15 @@
+Starting CINEMA 4D 15.038 ...
+
+Startup Directory: C:\Users\92233\Downloads\MonitorApp\MonitorApp
+Write Directory: C:\Users\92233\AppData\Roaming\MAXON\MonitorApp_B1D938AD
+Preferences Directory: C:\Users\92233\AppData\Roaming\MAXON\MonitorApp_B1D938AD\cinebenchprefs
+CINEBENCH started
+
+running Single CPU Render Test...
+
+
+CINEBENCH R15 Result
+
+Rendering (Single   CPU) : 133.33 pts
+
+
